@@ -11,7 +11,7 @@ project:
   tiles: "1x1"          # Valid values: 1x1, 1x2, 2x2, 3x2, 4x2, 6x2 or 8x2.
  # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
 pinout:
-  # Inputs
+ # Inputs
   ui[0]: "run"
   ui[1]: "state_init[0]"
   ui[2]: "state_init[1]"
@@ -21,7 +21,7 @@ pinout:
   ui[6]: "unused"
   ui[7]: "unused"
 
-  # Outputs
+ # Outputs
   uo[0]: "led_a"
   uo[1]: "led_b"
   uo[2]: "led_c"
