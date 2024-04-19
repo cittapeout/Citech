@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Workwi project using a D flipflop ring to display "CIt" on the 7 segment display.
+Worwi project using a D flipflop ring to display "CIt" on the 7 segment display.
 
 ## How to test
 Turn on the required inputs ,turn off the unused inputs.
