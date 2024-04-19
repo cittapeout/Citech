@@ -1,6 +1,7 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/wokwi_test/badge.svg)
 
 # Tiny Tapeout Wokwi Project Template
+Workwi project using a D flipflop ring to display "CIt" on the 7 segment display.
 
 - [Read the documentation for project](docs/info.md)
 
